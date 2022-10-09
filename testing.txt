@@ -1,0 +1,5 @@
+- user has only five tries ✔
+- when tries reaches five it returns a print indicating that the user lost the game ✔
+- the answear to the problem is always the same in the session ✔
+- the symbols indicating the correct letters are functional ✔
+- the print indicating user victory is functional ✔
