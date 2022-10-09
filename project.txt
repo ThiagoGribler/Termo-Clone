@@ -2,6 +2,6 @@
 2 - user inputs string ✔
 3 - rules:
     -> if letter is not present in the string indicate with negative symbol. ✔
-    -> if letter is present but not at it's respective position indicate with symbol. ❌
+    -> if letter is present but not at it's respective position indicate with symbol. ✔
     -> if letter is present and at the right position indicate with positive symbol. ✔
     -> user has 5 chances. ✔

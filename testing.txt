@@ -3,3 +3,5 @@
 - the answear to the problem is always the same in the session ✔
 - the symbols indicating the correct letters are functional ✔
 - the print indicating user victory is functional ✔
+- the print indicating letter present in incorrect position is functional ✔
+- assertion error indicating the user input must have 5 characters ✔
