@@ -5,3 +5,5 @@
 - the print indicating user victory is functional ✔
 - the print indicating letter present in incorrect position is functional ✔
 - assertion error indicating the user input must have 5 characters ✔
+- indication of letters that aren't present in the string is functional ✔
+- assertion error indicating the user input must not have numbers ✔

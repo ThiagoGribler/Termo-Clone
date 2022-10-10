@@ -7,3 +7,6 @@ def word():
                 'prate', 'plumb', 'taper', 'blase', 'fusty', 'preen', 'antic', 'beget', 'harry', 'clout']
     answear = wordlist[randint(0, len(wordlist))]
     return answear
+
+def contains_number(string):
+    return any(char.isdigit() for char in string)
