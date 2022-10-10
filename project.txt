@@ -9,3 +9,6 @@ Game Base:
 
 Addons:
     - List containing letters that are wrong. ✔
+    - Add GUI:
+        - Add Record Tracking.
+        - Add Forfeit Button.
